@@ -1,0 +1,24 @@
+{
+  "name": "Bot.js",
+  "version": "0.0.1",
+  "description": "Simple bot made with JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [
+    "Bot.js"
+  ],
+  "author": "Sam",
+  "type": "commonjs",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.18.2",
+    "fb-chat-support": "github:KhangGia1810/fb-chat-support",
+    "node": "^16.20.2"
+  },
+  "dependencies": {
+    "aes-js": "^3.1.2",
+    "axios": "^1.5.0"
+  }
+}
