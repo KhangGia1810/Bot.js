@@ -1,0 +1,41 @@
+{
+  "Port": 8888,
+  "dataBase": {
+    "saveData": true,
+    "refreshData": 604800,
+    "note": "Chỉ chỉnh sửa khi bạn thật sự hiểu những gì ở đây."
+  },
+  "country": {
+    "locale": "vi-VN",
+    "timeZone": "Asia/Ho_Chi_Minh"
+  },
+  "facebook": {
+    "email": "",
+    "password": "",
+    "authCode": "",
+    "appStatePath": "appstate.json",
+    "Cookies": "",
+    "encryptSt": true,
+    "options": {
+      "online": true,
+      "autoReconnect": true,
+      "listenEvents": true,
+      "autoMarkDelivery": true,
+      "selfListen": true,
+      "selfListenEvent": true,
+      "proxy": null
+    },
+    "note": "Chỉ chỉnh sửa khi bạn thật sự hiểu những gì ở đây."
+  },
+  "module": {
+    "noUseActive": [],
+    "noUsePassive": []
+  },
+  "consoleDev": {
+    "module": false,
+    "chatEvent": false
+  },
+  "Botname": "Bot.js",
+  "Prefix": ",",
+  "ownerIDs": []
+}
